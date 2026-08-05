@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://awsoftware787.github.io/notes-o6w1ah/sitemap.xml
